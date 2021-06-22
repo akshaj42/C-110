@@ -1,0 +1,68 @@
+body{
+    font-family: 'Train One', cursive;
+    background-color: lightcoral;
+}
+
+.header_div{
+    background: white;
+    color: darkorange;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background: cyan;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background: red;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 15px black;
+}
+
+#camera, #result{
+    border: 2px solid black;
+    width: 310px;
+    height: 300px;
+    box-shadow: 4px 4px 15px black;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 3px 3px 15px black;
+    border: 1px solid;
+}
+
+.footer_div h4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px black;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(252, 237, 210);
+    line-height: 3;
+    text-align: center;
+}
